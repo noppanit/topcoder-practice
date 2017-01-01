@@ -5,16 +5,19 @@ A good system is to use a substitution code, in which each digit is encoded by a
 Create a class Substitute that contains the method getValue that is given the s key and code as input and that returns the decoded value.
 
 ##Definition
+```
 Class: Substitute
 Method: getValue
 Parameters: string, string
 Returns: int
 Method signature: int getValue(string key, string code)
 (be sure your method is public)
-
+```
 ##Limits
+```
 Time limit (s): 840.000
 Memory limit (MB): 64
+```
 
 ##Constraints
 - code contains between 1 and 9 characters inclusive, all uppercase letters 'A'-'Z'
